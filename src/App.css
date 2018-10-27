@@ -1,0 +1,20 @@
+.App {
+  background-color: #282c34;
+  height:100vh;
+}
+
+.chatCenter {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+#chat {
+  height: 200px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
